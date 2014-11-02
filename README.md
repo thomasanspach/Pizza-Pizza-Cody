@@ -18,7 +18,7 @@ Pizza-Pizza-Cody
 * @ charlekwallin :octopus: :cat2:
   * does dominoes have octocat?
 
-*@tmax200tmaxx :smile: :bowtie:
+@tmax200tmaxx :smile: :bowtie:
  * Meat Lovers
  * Cheese
  
